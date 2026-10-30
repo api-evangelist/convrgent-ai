@@ -64,5 +64,113 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-convrgent-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://convrgent.ai/
+Convrgent is a personality intelligence platform for AI agents, offering 45 API endpoints across 11 personality frameworks such as Socionics, Enneagram, Human Design, BaZi, Vedic astrology, Numerology, and OCEAN. It operates on a pay‑per‑call model using the x402 protocol in USDC, requiring no API keys or signup. The service enables agents to profile humans, emulate human communication, and gain buyer intelligence, all without traditional authentication barriers.
+
+**Areas:** AI · Personality-Intelligence · x402 · Microservices · API
+
+## convrgent-ai on APIs.io
+
+Everything profiled for convrgent-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/convrgent-ai/](https://apis.io/providers/convrgent-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Convrgent API](https://apis.io/apis/convrgent-ai/convrgent-api/) — Convrgent API — KYH (Know Your Human) + BLAH (Be Like A Human) + KYB (Know Your Buyer)
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [convrgent-ai API Rules](https://apis.io/rules/convrgent-ai/convrgent-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Convrgent Ai Authentication](https://apis.io/security/convrgent-ai/convrgent-ai-authentication/)
+- [Convrgent Ai Domain Security](https://apis.io/security/convrgent-ai/convrgent-ai-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Convrgent Ai Scopes](https://apis.io/scopes/convrgent-ai/convrgent-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Convrgent Ai Plans Pricing](https://apis.io/plans/convrgent-ai/convrgent-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Convrgent Ai Rate Limits](https://apis.io/rate-limits/convrgent-ai/convrgent-ai-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://convrgent.ai/)
+- [Documentation](https://convrgent.ai/docs)
+- [API reference](https://convrgent.ai/docs)
+- [GitHub](https://github.com/Convrgent)
+
+## API Evangelist rating
+
+**Kin Score 25.3** — emerging · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 24.0 |
+| Contract governance | 57.3 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 23.1 |
+| Access clarity | 0.0 |
+
+**Agent readiness 26.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 19.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/convrgent-ai/](https://apis.io/providers/convrgent-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for convrgent-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/convrgent-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
